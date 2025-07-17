@@ -2,4 +2,4 @@
 
 
 
-#a samle program
+#a sample program
